@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![zhu849 github stats](https://github-readme-stats.vercel.app/api?username=zhu849&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhu849&hide=css,html)](https://github.com/zhu849/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhu849&hide=css,html,scss&langs_count=8)](https://github.com/zhu849/github-readme-stats)
