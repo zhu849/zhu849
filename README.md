@@ -1,5 +1,5 @@
 ### Hi I'm zhu849 👋
-Contact me [E-Mail](mailto:st81801@gmail.com)
+Contact me | [E-Mail](mailto:st81801@gmail.com) |
 
 
 <!--
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![zhu849 github stats](https://github-readme-stats.vercel.app/api?username=zhu849&show_icons=true?theme=merko)](https://github.com/anuraghazra/github-readme-stats)
